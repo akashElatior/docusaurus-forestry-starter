@@ -11,5 +11,15 @@ fields:
   config:
     min: 
     max: 
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
 pages:
 - docs/test.md
