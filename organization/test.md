@@ -1,13 +1,9 @@
 ---
 condensed:
-- template: doc
-  condensed:
-  - template: doc
-    condensed:
-    - template: page
-      id: ''
-      title: ''
-      sidebar_label: ''
-      condensed: []
+- template: page
+  id: '1'
+  title: Testing
+  sidebar_label: test123
+  condensed: []
 
 ---
