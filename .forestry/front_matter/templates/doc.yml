@@ -12,4 +12,4 @@ fields:
     min: 
     max: 
 pages:
-- organization/test.md
+- docs/org/test.md
