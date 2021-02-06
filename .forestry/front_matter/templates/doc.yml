@@ -1,4 +1,13 @@
 ---
 label: Doc
 hide_body: true
-fields: []
+fields:
+- name: condensed
+  type: blocks
+  label: Condensed
+  template_types:
+  - page
+  - doc
+  config:
+    min: 
+    max: 
