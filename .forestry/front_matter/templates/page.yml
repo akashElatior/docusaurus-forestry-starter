@@ -11,3 +11,10 @@ fields:
 - type: text
   name: sidebar_label
   label: sidebar_label
+- name: condensed
+  type: blocks
+  label: Condensed
+  template_types: []
+  config:
+    min: 
+    max: 
