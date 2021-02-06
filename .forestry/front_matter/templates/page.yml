@@ -18,3 +18,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- docs/sdfds.md
